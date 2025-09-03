@@ -4,7 +4,7 @@ import SwiftUI
 struct CountriesAppApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CountriesListView()
         }
     }
 }
